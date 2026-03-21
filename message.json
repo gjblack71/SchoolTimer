@@ -1,4 +1,5 @@
 {
   "text": "Hello world",
-  "expires": "2026-03-22"
+  "expires": "2026-03-22",
+  "bell_offset": -10
 }
