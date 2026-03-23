@@ -1,5 +1,26 @@
 {
   "text": "testttttttttt",
   "expires": "2026-03-22",
-  "bell_offset": -10
+  "bell_offset": -10,
+  "day_bells": {
+    "date": "2026-03-23",
+    "bells": {
+      "Early Class": "08:00",
+      "Before School Duty": "08:30",
+      "Home Room": "08:50",
+      "Period 1": "09:05",
+      "Period 2": "09:55",
+      "Recess": "10:45",
+      "Period 3": "11:10",
+      "Period 4": "12:00",
+      "Examen": "12:50",
+      "Lunch 1": "12:55",
+      "Lunch 2": "13:15",
+      "Period 5": "13:35",
+      "Period 6": "14:25",
+      "After School 1": "15:15",
+      "After School 2": "15:35",
+      "End of Day": "15:55"
+    }
+  }
 }
